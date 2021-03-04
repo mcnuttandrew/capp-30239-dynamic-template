@@ -42,7 +42,7 @@ yarn add PACKAGENAME
 
 Development:
 
-Step 1: Do all of your work in src. There is no step 2.
+You should aim to do most of your work in src/ but you are welcome to modify any of the other files and folders as you see fit. 
 
 Production:
 
